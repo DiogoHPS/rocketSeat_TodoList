@@ -1,0 +1,6 @@
+{
+    "terminal.integrated,defaultProfile.windowns": "Command Prompt",
+
+    "java.configuration.updateBuildConfiguration": "disabled",
+    "java.compile.nullAnalysis.mode": "disabled"
+}
